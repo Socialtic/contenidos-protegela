@@ -53,3 +53,4 @@ Estas son las primeras cosas que instalamos y configuramos :) 6 primeros pasos p
 Para revisar otros aspectos de seguridad, hicimos esta checklist de seguridad digital en formato virtual para que veas qué hábitos puedes mejorar en el cuidado de tu info y tus equipos. Entra a <a href="https://protege.la/checklists/" target="_blank" rel="noopener noreferrer">https://protege.la/checklists/</a> y elige por dónde empezar: 💻 tu compu, 📱 celular 💬 y cuentas en línea.
 
 Cuéntanos, ¿qué otras aplicaciones y consejos recomiendas instalar a la hora de estrenar equipos?
+
