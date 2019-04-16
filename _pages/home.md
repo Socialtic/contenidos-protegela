@@ -1,0 +1,13 @@
+---
+ID: 43
+post_title: Home
+post_name: home
+author: H Q
+post_date: 2018-01-31 07:43:21
+layout: page
+link: https://protege.la/home/
+published: true
+tags: [ ]
+categories: [ ]
+---
+[et_pb_section bb_built="1" fullwidth="on" \_builder\_version="3.0.98"][et_pb_fullwidth_slider \_builder\_version="3.0.98" show_arrows="on" show_pagination="on" show_inner_shadow="on" custom_button="off" button_icon_placement="right" show_content_on_mobile="on" show_cta_on_mobile="on" show_image_video_mobile="off"][et_pb_slide heading="Protege.LA" button_text="Empieza Ahora" \_builder\_version="3.0.98" background_color="#ffffff" background_image="https://protege.la/wp-content/uploads/2018/01/home-background.jpg" button_link="#seccion-portafolio" use_background_color_gradient="off" background_color_gradient_start="#2b87da" background_color_gradient_end="#29c4a9" background_color_gradient_type="linear" background_color_gradient_direction="180deg" background_color_gradient_direction_radial="center" background_color_gradient_start_position="0%" background_color_gradient_end_position="100%" background_color_gradient_overlays_image="off" parallax="off" parallax_method="on" background_size="cover" background_position="center" background_repeat="no-repeat" background_blend="normal" allow_player_pause="off" use_bg_overlay="off" use_text_overlay="off" text_border_radius="3" alignment="center" child_filter_hue_rotate="0deg" child_filter_saturate="100%" child_filter_brightness="100%" child_filter_contrast="100%" child_filter_invert="0%" child_filter_sepia="0%" child_filter_opacity="100%" child_filter_blur="0px" child_mix_blend_mode="normal" background_layout="dark" text_shadow_style="none" header_text_shadow_style="none" body_text_shadow_style="none" custom_button="off" button_bg_use_color_gradient="off" button_bg_color_gradient_overlays_image="off" button_use_icon="on" button_on_hover="on" button_text_shadow_style="none" box_shadow_style_button="none"] Trucos y consejos para proteger tu identidad en línea [/et_pb_slide][/et_pb_fullwidth_slider][/et_pb_section][et_pb_section bb_built="1" \_builder\_version="3.0.98" module_id="seccion-portafolio"][et_pb_row \_builder\_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4"][et_pb_filterable_portfolio fullwidth="off" posts_number="10" show_categories="off" show_pagination="off" \_builder\_version="3.0.98" /][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" fullwidth="on" \_builder\_version="3.0.47"][et_pb_fullwidth_portfolio \_builder\_version="3.0.98" portfolio_header_font_size_tablet="51" portfolio_header_line_height_tablet="2" /][/et_pb_section]
