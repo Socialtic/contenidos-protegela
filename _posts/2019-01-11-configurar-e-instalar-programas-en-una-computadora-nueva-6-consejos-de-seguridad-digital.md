@@ -7,7 +7,7 @@ post_name: >
   configurar-e-instalar-programas-en-una-computadora-nueva-6-consejos-de-seguridad-digital
 author: H Q
 post_date: 2019-01-11 12:13:37
-post_excerpt: 'Si estás estrenando computadora, te contamos qué instalar y porqué: opciones de configuración, aplicaciones y extensiones de seguridad'
+post_excerpt: 'Si estás estrenando computadora, te contamos qué instalar y por qué: opciones de configuración, aplicaciones y extensiones de seguridad'
 layout: post
 link: >
   https://protege.la/configurar-e-instalar-programas-en-una-computadora-nueva-6-consejos-de-seguridad-digital/
@@ -32,7 +32,7 @@ Hace poco estrenamos una nueva laptop en SocialTIC y pensamos que era una buena 
 
 **5\. Configurar tu navegador favorito.** La mayoría de cosas que hacemos en la compu, las hacemos a través del navegador. Elige un navegador que proteja tu privacidad y mantenlo actualizado (recomendamos Firefox), también checa las opciones de configuración para administrar perfiles, y la sección de privacidad y seguridad.
 
-**6\. Instalar extensiones de seguridad para tu navegador** Para navegar de forma segura en Internet, instala complementos o extensiones que tengan un enfoque de privacidad y seguridad en tu navegador,<a href="https://socialtic.org/blog/complementos-seguridad-privacidad-para-tu-navegador/" target="_blank" rel="noopener noreferrer"> en este post recomendamos</a> herramientas que bloquean el rastreo de tu actividad en línea, el spam, engaños digitales como el phishing, y otras que aseguran que tu información viaje de forma más segura y cifrada. Tip: Al instalar tus programas favoritos, asegúrate hacerlo desde sitios oficiales para evitar software malicioso. También puedes optar por herramientas libres y que cuenten con soporte. 
+**6\. Instalar extensiones de seguridad para tu navegador** Para navegar de forma segura en Internet, instala complementos o extensiones que tengan un enfoque de privacidad y seguridad en tu navegador,<a href="https://socialtic.org/blog/complementos-seguridad-privacidad-para-tu-navegador/" target="_blank" rel="noopener noreferrer"> en este post recomendamos</a> herramientas que bloquean el rastreo de tu actividad en línea, el spam, engaños digitales como el phishing, y otras que aseguran que tu información viaje de forma más segura y cifrada. Tip: Al instalar tus programas favoritos, asegúrate hacerlo desde sitios oficiales para evitar software malicioso. También puedes optar por herramientas libres y que cuenten con soporte.
 
 Estas son las primeras cosas que instalamos y configuramos :) 6 primeros pasos para protegerla apenas la sacamos de su caja; nos tomó poco tiempo y conforme vamos usando la compu para otras cosas, como videollamadas, gestión de redes sociales o cuentas, vamos sumando herramientas que protejan nuestra información.
 
