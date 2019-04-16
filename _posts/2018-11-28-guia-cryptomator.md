@@ -13,9 +13,7 @@ post_excerpt: >
 layout: post
 link: https://protege.la/guia-cryptomator/
 published: true
-tags:
-  - cifrado
-  - nube
+tags: [ ]
 categories:
   - Guías
 ---
