@@ -16,6 +16,7 @@ tags: [ ]
 categories:
   - Blog
 ---
+[et_pb_section admin_label="section"] [et_pb_row admin_label="row"] [et_pb_column type="4_4"][et_pb_text admin_label="Text"]
 <a href="https://twitter.com/Haydeki" target="_blank" rel="noopener noreferrer">@haydeki</a> y <a href="https://twitter.com/_Penserbjorne" target="_blank" rel="noopener noreferrer">Paul</a>
 
 <img class="aligncenter wp-image-2616 size-full" src="https://protege.la/wp-content/uploads/2019/01/Configura-y-protege-tu-compu-nueva-conmigo-1.png" alt="" width="560" height="315" />
@@ -52,5 +53,4 @@ Estas son las primeras cosas que instalamos y configuramos :) 6 primeros pasos p
 
 Para revisar otros aspectos de seguridad, hicimos esta checklist de seguridad digital en formato virtual para que veas qué hábitos puedes mejorar en el cuidado de tu info y tus equipos. Entra a <a href="https://protege.la/checklists/" target="_blank" rel="noopener noreferrer">https://protege.la/checklists/</a> y elige por dónde empezar: 💻 tu compu, 📱 celular 💬 y cuentas en línea.
 
-Cuéntanos, ¿qué otras aplicaciones y consejos recomiendas instalar a la hora de estrenar equipos?
-
+Cuéntanos, ¿qué otras aplicaciones y consejos recomiendas instalar a la hora de estrenar equipos?[/et_pb_text][/et_pb_column] [/et_pb_row] [/et_pb_section]
